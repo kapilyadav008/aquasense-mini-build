@@ -68,3 +68,4 @@ export default function DevicePanel({ latestReading }) {
     </div>
   );
 }
+
