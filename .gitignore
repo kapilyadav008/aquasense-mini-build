@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Build & Distribution
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Vite & Frontend caches
+.vite/
+dist-ssr/
+*.local
+
+# Pytest & Testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# Environments
+.env
+.env.local
+.env.*.local
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
